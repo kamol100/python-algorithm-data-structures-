@@ -38,6 +38,16 @@ class BinaryTree:
         if self.right:
             self.right.dfs_pre_order()
 
+    def dfs_post_order(self):
+        if self.left:
+            self.left.dfs_post_order()
+        if self.right:
+            self.right.dfs_post_order()
+
+        print(self.data, end=',')
+
+
+
 
 
 
@@ -51,11 +61,13 @@ def build_tree(elements):
 
 if __name__=='__main__':
 
-    numbers = [17,4,1,20,9,23,18,34]
+    numbers = [17,4,1,20,9,23,18,34, 35,5,55,33,22]
     tree = build_tree(numbers)
     print('In order')
     print(tree.dfs_in_order())
     print('Pre Order')
     print(tree.dfs_pre_order())
+    print('post order')
+    print(tree.dfs_post_order())
 
 
