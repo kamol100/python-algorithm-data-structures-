@@ -103,6 +103,36 @@ class BinaryTree:
             print(result[item], end=" ")
 
 
+    def lowestCommonAncestor(self, root, a, b):
+        if root is None:
+            return None
+        else:
+            if root.data == a.data or root.data == b.data:
+                return root
+            if root.left is None and root.right is None:
+                return None
+
+            left = None
+            right = None
+            if root.left:
+                left = self.lowestCommonAncestor(root.left, a, b)
+            if root.right:
+                right = self.lowestCommonAncestor(root.right, a, b)
+
+            if left and right:
+                print(root.data)
+                return
+            if left is None:
+                return right
+            if right is None:
+                return left
+
+
+
+
+
+
+
 
 
 
@@ -120,7 +150,7 @@ def build_tree(elements):
 
 if __name__=='__main__':
 
-    numbers = [1,2,5,3,6,4]
+    numbers = [4,2,3,1,7,6]
     numbers2 = [
         37, 23, 108, 59, 86, 64, 94, 14, 105, 17, 111, 65, 55, 31, 79, 97, 78, 25, 50, 22, 66,
         46, 104, 98, 81, 90, 68, 40, 103, 77, 74, 18, 69, 82, 41, 4,
@@ -130,7 +160,7 @@ if __name__=='__main__':
         75, 116, 5, 61, 49, 101, 71, 11, 53, 43, 102, 110, 1, 58, 36, 28, 76,
         47, 113, 21, 89, 51, 19, 3
     ]
-    tree = build_tree(numbers2)
+    tree = build_tree(numbers)
 
     print('In order')
     print(tree.dfs_in_order(tree.root))
@@ -142,5 +172,7 @@ if __name__=='__main__':
     print(tree.levelOrder(tree.root))
     print('Top view')
     print(tree.topView(tree.root))
+    print('Lowest common ancestor')
+    print(tree.lowestCommonAncestor(tree.root, Node(1),Node(7)))
 
 
