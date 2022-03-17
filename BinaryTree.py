@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(1200)
+
 class Node:
     def __init__(self, data):
         self.data = data
@@ -128,6 +131,42 @@ class BinaryTree:
                 return left
 
 
+    def swapNodes(self, indexes, queries):
+
+        def create(root, indexes):
+            queue = [root]
+            for x,y in indexes:
+                temp = queue.pop(0)
+                if x != -1:
+                    temp.left = Node(x)
+                    queue.append(temp.left)
+                if y != -1:
+                    temp.right = Node(y)
+                    queue.append(temp.right)
+            return root
+
+        def swap(root, k, level, items):
+            if root:
+                if level%k == 0:
+                    root.left, root.right = root.right, root.left
+                if root.left:
+                    swap(root.left, k, level+1, items)
+                items.append(root.data)
+                if root.right:
+                    swap(root.right, k, level+1, items)
+
+
+
+        root = Node(1)
+
+        root = create(root, indexes)
+        result = []
+        for k in queries:
+            items = []
+            swap(root, k, 1, items)
+            result.append(items)
+
+        return result
 
 
 
@@ -174,5 +213,8 @@ if __name__=='__main__':
     print(tree.topView(tree.root))
     print('Lowest common ancestor')
     print(tree.lowestCommonAncestor(tree.root, Node(1),Node(7)))
+    print('Swap Node')
+    nodes = [(1,1),(2,2),(3,3),(4,4),(5,5),(-1,-1),(-1,-1)]
+    print(tree.swapNodes(nodes, [1,2]))
 
 
