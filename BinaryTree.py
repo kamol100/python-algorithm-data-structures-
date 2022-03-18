@@ -1,5 +1,3 @@
-import sys
-sys.setrecursionlimit(1200)
 
 class Node:
     def __init__(self, data):
@@ -168,6 +166,17 @@ class BinaryTree:
 
         return result
 
+    def isBinarySearchTree(self, root):
+        def isTree(root, min_val, max_val):
+            if root is None:
+                return True
+            if root.data < min_val or root.data > max_val:
+                return False
+            return isTree(root.left, min_val, root.data -1) and isTree(root.right, root.data - 1, max_val)
+        return isTree(root, 0, 10000)
+
+
+
 
 
 
@@ -216,5 +225,7 @@ if __name__=='__main__':
     print('Swap Node')
     nodes = [(1,1),(2,2),(3,3),(4,4),(5,5),(-1,-1),(-1,-1)]
     print(tree.swapNodes(nodes, [1,2]))
+    print('Is a binary search tree')
+    print(tree.isBinarySearchTree(tree.root))
 
 
