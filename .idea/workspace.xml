@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SherlockAndSquares.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MagicSquareForming.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$Factorials.coverage" NAME="Factorials Coverage Results" MODIFIED="1647825829766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$FindRunningMedianHeap.coverage" NAME="FindRunningMedianHeap Coverage Results" MODIFIED="1648180785978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ClimbingLeaderboard.coverage" NAME="ClimbingLeaderboard Coverage Results" MODIFIED="1648523344830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MagicSquareForming.coverage" NAME="MagicSquareForming Coverage Results" MODIFIED="1648698729633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MaxElement.coverage" NAME="MaxElement Coverage Results" MODIFIED="1647773360807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$JesseAndCookiHackerRank.coverage" NAME="JesseAndCookiHackerRank Coverage Results" MODIFIED="1648087153753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SherlockAndSquares.coverage" NAME="SherlockAndSquares Coverage Results" MODIFIED="1648603480763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -100,7 +101,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SherlockAndSquares.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SherlockAndSquares.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SherlockAndSquares.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -110,11 +111,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxElement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MaxElement.py">
+      <file leaf-file-name="MagicSquareForming.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MagicSquareForming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -164,6 +165,7 @@
         <option value="$PROJECT_DIR$/CircularArrayRotation.py" />
         <option value="$PROJECT_DIR$/ClimbingLeaderboard.py" />
         <option value="$PROJECT_DIR$/SherlockAndSquares.py" />
+        <option value="$PROJECT_DIR$/MagicSquareForming.py" />
       </list>
     </option>
   </component>
@@ -226,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SherlockAndSquares">
+  <component name="RunManager" selected="Python.MagicSquareForming">
     <configuration name="CircularArrayRotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,7 +265,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="FindRunningMedianHeap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MagicSquareForming" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -276,7 +278,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-algorithm-data-structures-" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindRunningMedianHeap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MagicSquareForming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +320,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FindRunningMedianHeap" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MinimumAvrageTime" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CircularArrayRotation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ClimbingLeaderboard" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SherlockAndSquares" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MinimumAvrageTime" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CircularArrayRotation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ClimbingLeaderboard" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SherlockAndSquares" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MagicSquareForming" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SherlockAndSquares" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ClimbingLeaderboard" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CircularArrayRotation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MinimumAvrageTime" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FindRunningMedianHeap" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MagicSquareForming" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SherlockAndSquares" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ClimbingLeaderboard" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CircularArrayRotation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MinimumAvrageTime" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +370,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -406,13 +408,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8400">
-          <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayReverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -455,6 +450,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
           <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -492,6 +488,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
           <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -529,6 +526,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
           <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -551,6 +549,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
           <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -565,6 +564,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
           <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -579,6 +579,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -586,6 +587,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -593,6 +595,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -600,6 +603,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -607,6 +611,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -614,6 +619,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,6 +627,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,6 +635,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -635,6 +643,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,6 +651,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -649,6 +659,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -656,6 +667,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -663,6 +675,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -670,6 +683,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -698,6 +712,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
           <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -777,6 +792,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MagicSquareForming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="9" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding />
         </state>
       </provider>
