@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LongestPalindromSubstring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ZigzagConversion.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$BinaryTree.coverage" NAME="BinaryTree Coverage Results" MODIFIED="1650242335718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$RomanToInteger.coverage" NAME="RomanToInteger Coverage Results" MODIFIED="1650424041619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$AppendAndDelete.coverage" NAME="AppendAndDelete Coverage Results" MODIFIED="1648870964679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ZigzagConversion.coverage" NAME="ZigzagConversion Coverage Results" MODIFIED="1650804413802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$QueueUsingTwoStack.coverage" NAME="QueueUsingTwoStack Coverage Results" MODIFIED="1647915991014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$Factorials.coverage" NAME="Factorials Coverage Results" MODIFIED="1647825829766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$QueriesWithFixedLength.coverage" NAME="QueriesWithFixedLength Coverage Results" MODIFIED="1649913151078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -45,26 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="TruckTour.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TruckTour.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueriesWithFixedLength.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QueriesWithFixedLength.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TwoSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TwoSum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,11 +116,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestPalindromSubstring.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestPalindromSubstring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LongestPalindromSubstring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1296">
               <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZigzagConversion.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZigzagConversion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppendAndDelete.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppendAndDelete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -179,7 +180,6 @@
         <option value="$PROJECT_DIR$/ClimbingLeaderboard.py" />
         <option value="$PROJECT_DIR$/SherlockAndSquares.py" />
         <option value="$PROJECT_DIR$/MagicSquareForming.py" />
-        <option value="$PROJECT_DIR$/AppendAndDelete.py" />
         <option value="$PROJECT_DIR$/IsBalanced.py" />
         <option value="$PROJECT_DIR$/GameOfTwoStacks.py" />
         <option value="$PROJECT_DIR$/CastleOnTheGrid.py" />
@@ -195,6 +195,8 @@
         <option value="$PROJECT_DIR$/LongestSubstring.py" />
         <option value="$PROJECT_DIR$/LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/LongestPalindromSubstring.py" />
+        <option value="$PROJECT_DIR$/AppendAndDelete.py" />
+        <option value="$PROJECT_DIR$/ZigzagConversion.py" />
       </list>
     </option>
   </component>
@@ -243,7 +245,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LongestPalindromSubstring">
+  <component name="RunManager" selected="Python.ZigzagConversion">
     <configuration name="LongestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,24 +314,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PalindromNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-algorithm-data-structures-" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PalindromNumber.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="RomanToInteger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,20 +332,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="ZigzagConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-algorithm-data-structures-" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZigzagConversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PalindromNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RomanToInteger" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LongestSubstring" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
+      <item index="0" class="java.lang.String" itemvalue="Python.RomanToInteger" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LongestSubstring" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ZigzagConversion" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LongestSubstring" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RomanToInteger" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PalindromNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ZigzagConversion" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LongestSubstring" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -437,13 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EqualStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8400">
@@ -654,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppendAndDelete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SherlockAndSquares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -794,6 +782,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppendAndDelete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZigzagConversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
