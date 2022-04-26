@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SearchInsertPosition.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IsBalanced.py" afterPath="$PROJECT_DIR$/IsBalanced.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,6 +36,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ArrayLeftRotation.coverage" NAME="ArrayLeftRotation Coverage Results" MODIFIED="1647738827742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MinimumAvrageTime.coverage" NAME="MinimumAvrageTime Coverage Results" MODIFIED="1648396409166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CircularArrayRotation.coverage" NAME="CircularArrayRotation Coverage Results" MODIFIED="1648434746732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1650936706265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$PalindromNumber.coverage" NAME="PalindromNumber Coverage Results" MODIFIED="1650333527693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$JesseAndCookiHackerRank.coverage" NAME="JesseAndCookiHackerRank Coverage Results" MODIFIED="1648087153753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$GameOfTwoStacks.coverage" NAME="GameOfTwoStacks Coverage Results" MODIFIED="1649299329409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -46,26 +47,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="BinaryTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9120">
-              <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchTreeKthSmallestElement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinarySearchTreeKthSmallestElement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2976">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PalindromNumber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PalindromNumber.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/LongestCommonPrefix.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1248">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,11 +107,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsBalanced.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsBalanced.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IsBalanced.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1344">
               <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchInsertPosition.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SearchInsertPosition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -197,6 +188,7 @@
         <option value="$PROJECT_DIR$/AppendAndDelete.py" />
         <option value="$PROJECT_DIR$/ZigzagConversion.py" />
         <option value="$PROJECT_DIR$/IsBalanced.py" />
+        <option value="$PROJECT_DIR$/SearchInsertPosition.py" />
       </list>
     </option>
   </component>
@@ -259,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IsBalanced">
+  <component name="RunManager" selected="Python.SearchInsertPosition">
     <configuration name="IsBalanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,7 +306,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SearchInsertPosition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -327,7 +319,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-algorithm-data-structures-" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LongestSubstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SearchInsertPosition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,19 +343,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LongestSubstring" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ZigzagConversion" />
-      <item index="4" class="java.lang.String" itemvalue="Python.IsBalanced" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ZigzagConversion" />
+      <item index="3" class="java.lang.String" itemvalue="Python.IsBalanced" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SearchInsertPosition" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IsBalanced" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ZigzagConversion" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LongestSubstring" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SearchInsertPosition" />
+        <item index="1" class="java.lang.String" itemvalue="Python.IsBalanced" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ZigzagConversion" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LongestPalindromSubstring" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -434,18 +426,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="30" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8400">
-          <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayReverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -720,30 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9120">
-          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearchTreeKthSmallestElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2976">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PalindromNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RomanToInteger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -763,7 +724,7 @@
     <entry file="file://$PROJECT_DIR$/LongestCommonPrefix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1248">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -796,6 +757,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
           <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearchTreeKthSmallestElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2976">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9120">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PalindromNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchInsertPosition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding />
         </state>
       </provider>
