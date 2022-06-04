@@ -15,6 +15,7 @@ def find_anagram_in_string(s,p):
         l += 1
         if sCount == pCount:
             res.append(l)
+        print(res, sCount)
 
     return res
 
