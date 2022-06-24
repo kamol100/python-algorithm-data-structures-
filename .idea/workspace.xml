@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LinkList(single).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HappyNumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,6 +64,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ValidSudoku.coverage" NAME="ValidSudoku Coverage Results" MODIFIED="1653017147528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$AllAnagramInString.coverage" NAME="AllAnagramInString Coverage Results" MODIFIED="1654304436047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SherlockAndSquares.coverage" NAME="SherlockAndSquares Coverage Results" MODIFIED="1648603480763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$HappyNumber.coverage" NAME="HappyNumber Coverage Results" MODIFIED="1656034018890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CircularArrayRotation.coverage" NAME="CircularArrayRotation Coverage Results" MODIFIED="1648434746732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1650941248263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ImplementStrString.coverage" NAME="ImplementStrString Coverage Results" MODIFIED="1654310917325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -82,16 +83,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="CombinationSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CombinationSum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TrappingRainWater.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrappingRainWater.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,11 +143,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkList(single).py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkList(single).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkList(single).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1344">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HappyNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HappyNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -165,7 +166,7 @@
       <file leaf-file-name="BinarySearchTreeKthSmallestElement.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BinarySearchTreeKthSmallestElement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-305">
+            <state relative-caret-position="1296">
               <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
               <folding />
             </state>
@@ -202,7 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TruckTour.py" />
         <option value="$PROJECT_DIR$/QueriesWithFixedLength.py" />
         <option value="$PROJECT_DIR$/TwoSum.py" />
         <option value="$PROJECT_DIR$/BinaryTree.py" />
@@ -253,6 +253,7 @@
         <option value="$PROJECT_DIR$/LatterCombinationOfaPhoneNumber.py" />
         <option value="$PROJECT_DIR$/SearchInRotatedArray.py" />
         <option value="$PROJECT_DIR$/LinkList(single).py" />
+        <option value="$PROJECT_DIR$/HappyNumber.py" />
       </list>
     </option>
   </component>
@@ -283,8 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,6 +295,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LinkList(single)">
+  <component name="RunManager" selected="Python.HappyNumber">
     <configuration name="BinarySearchTreeKthSmallestElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,7 +340,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LatterCombinationOfaPhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HappyNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -352,7 +353,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-algorithm-data-structures-" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LatterCombinationOfaPhoneNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HappyNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,19 +413,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LatterCombinationOfaPhoneNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TwoSum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BinarySearchTreeKthSmallestElement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SearchInRotatedArray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LinkList(single)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TwoSum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BinarySearchTreeKthSmallestElement" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SearchInRotatedArray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LinkList(single)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HappyNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LinkList(single)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SearchInRotatedArray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.BinarySearchTreeKthSmallestElement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TwoSum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LatterCombinationOfaPhoneNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.HappyNumber" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LinkList(single)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SearchInRotatedArray" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BinarySearchTreeKthSmallestElement" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -522,13 +523,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LongestSubstring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LongestCommonPrefix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1248">
@@ -854,7 +848,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeKthSmallestElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
+        <state relative-caret-position="1296">
           <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
           <folding />
         </state>
@@ -863,7 +857,15 @@
     <entry file="file://$PROJECT_DIR$/LinkList(single).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HappyNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
