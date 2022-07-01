@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SingelNumberTwo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SingleNumberThree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,6 +50,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ContainerWithMostWater.coverage" NAME="ContainerWithMostWater Coverage Results" MODIFIED="1654829746887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ArrayReverse.coverage" NAME="ArrayReverse Coverage Results" MODIFIED="1647658422991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$LongestPalindromSubstring.coverage" NAME="LongestPalindromSubstring Coverage Results" MODIFIED="1650769600023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SingleNumberThree.coverage" NAME="SingleNumberThree Coverage Results" MODIFIED="1656646921705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CombinationSumTwo.coverage" NAME="CombinationSumTwo Coverage Results" MODIFIED="1656211193708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$JumpGame.coverage" NAME="JumpGame Coverage Results" MODIFIED="1654571961249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$LinkList_single_.coverage" NAME="LinkList(single) Coverage Results" MODIFIED="1655782888955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -71,7 +72,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$HappyNumber.coverage" NAME="HappyNumber Coverage Results" MODIFIED="1656034018890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CircularArrayRotation.coverage" NAME="CircularArrayRotation Coverage Results" MODIFIED="1648434746732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1650941248263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SingelNumberTwo.coverage" NAME="SingelNumberTwo Coverage Results" MODIFIED="1656642193840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SingelNumberTwo.coverage" NAME="SingelNumberTwo Coverage Results" MODIFIED="1656643203955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ImplementStrString.coverage" NAME="ImplementStrString Coverage Results" MODIFIED="1654310917325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1656553583852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CombinationSum.coverage" NAME="CombinationSum Coverage Results" MODIFIED="1656160949739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -81,7 +82,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$GameOfTwoStacks.coverage" NAME="GameOfTwoStacks Coverage Results" MODIFIED="1649299329409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ClimbingStairs.coverage" NAME="ClimbingStairs Coverage Results" MODIFIED="1651975825935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$BinarySearchTreeKthSmallestElement.coverage" NAME="BinarySearchTreeKthSmallestElement Coverage Results" MODIFIED="1655607189378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SingleNumber.coverage" NAME="SingleNumber Coverage Results" MODIFIED="1656641080024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SingleNumber.coverage" NAME="SingleNumber Coverage Results" MODIFIED="1656644815777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MergeSortedArray.coverage" NAME="MergeSortedArray Coverage Results" MODIFIED="1653448026101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$TruckTour.coverage" NAME="TruckTour Coverage Results" MODIFIED="1649730842665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$Threesum.coverage" NAME="Threesum Coverage Results" MODIFIED="1652061473261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -143,18 +144,28 @@
       <file leaf-file-name="SingleNumber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SingleNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="240">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingelNumberTwo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingelNumberTwo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SingelNumberTwo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="672">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleNumberThree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SingleNumberThree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -180,7 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LongestSubstring.py" />
         <option value="$PROJECT_DIR$/LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/LongestPalindromSubstring.py" />
         <option value="$PROJECT_DIR$/AppendAndDelete.py" />
@@ -229,8 +239,9 @@
         <option value="$PROJECT_DIR$/CombinationSumTwo.py" />
         <option value="$PROJECT_DIR$/combinationSumThree.py" />
         <option value="$PROJECT_DIR$/MissingNumber.py" />
-        <option value="$PROJECT_DIR$/SingleNumber.py" />
         <option value="$PROJECT_DIR$/SingelNumberTwo.py" />
+        <option value="$PROJECT_DIR$/SingleNumber.py" />
+        <option value="$PROJECT_DIR$/SingleNumberThree.py" />
       </list>
     </option>
   </component>
@@ -298,25 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SingelNumberTwo">
-    <configuration name="CombinationSumTwo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-algorithm-data-structures-" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CombinationSumTwo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.SingleNumberThree">
     <configuration name="MissingNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,6 +364,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="SingleNumberThree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-algorithm-data-structures-" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingleNumberThree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="combinationSumThree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -390,19 +401,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CombinationSumTwo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.combinationSumThree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MissingNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SingleNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
+      <item index="0" class="java.lang.String" itemvalue="Python.combinationSumThree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MissingNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SingleNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SingleNumberThree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SingleNumberThree" />
         <item index="1" class="java.lang.String" itemvalue="Python.SingleNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MissingNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.combinationSumThree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CombinationSumTwo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MissingNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Python.combinationSumThree" />
       </list>
     </recent_temporary>
   </component>
@@ -495,13 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ClimbingLeaderboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MaximumSubarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -818,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SingleNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="240">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -828,6 +832,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SingleNumberThree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
