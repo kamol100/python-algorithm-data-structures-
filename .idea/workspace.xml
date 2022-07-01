@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SingleNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SingelNumberTwo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,6 +71,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$HappyNumber.coverage" NAME="HappyNumber Coverage Results" MODIFIED="1656034018890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CircularArrayRotation.coverage" NAME="CircularArrayRotation Coverage Results" MODIFIED="1648434746732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SearchInsertPosition.coverage" NAME="SearchInsertPosition Coverage Results" MODIFIED="1650941248263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SingelNumberTwo.coverage" NAME="SingelNumberTwo Coverage Results" MODIFIED="1656642193840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ImplementStrString.coverage" NAME="ImplementStrString Coverage Results" MODIFIED="1654310917325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1656553583852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CombinationSum.coverage" NAME="CombinationSum Coverage Results" MODIFIED="1656160949739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -139,11 +140,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleNumber.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingleNumber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SingleNumber.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
               <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingelNumberTwo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SingelNumberTwo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -169,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RomanToInteger.py" />
         <option value="$PROJECT_DIR$/LongestSubstring.py" />
         <option value="$PROJECT_DIR$/LongestCommonPrefix.py" />
         <option value="$PROJECT_DIR$/LongestPalindromSubstring.py" />
@@ -220,6 +230,7 @@
         <option value="$PROJECT_DIR$/combinationSumThree.py" />
         <option value="$PROJECT_DIR$/MissingNumber.py" />
         <option value="$PROJECT_DIR$/SingleNumber.py" />
+        <option value="$PROJECT_DIR$/SingelNumberTwo.py" />
       </list>
     </option>
   </component>
@@ -287,25 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SingleNumber">
-    <configuration name="CombinationSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-algorithm-data-structures-" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CombinationSum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.SingelNumberTwo">
     <configuration name="CombinationSumTwo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,6 +331,24 @@
       <module name="python-algorithm-data-structures-" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MissingNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SingelNumberTwo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-algorithm-data-structures-" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingelNumberTwo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,19 +390,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CombinationSum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.CombinationSumTwo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.combinationSumThree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MissingNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SingleNumber" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CombinationSumTwo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.combinationSumThree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MissingNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SingleNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SingleNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MissingNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.combinationSumThree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.CombinationSumTwo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CombinationSum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SingleNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MissingNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Python.combinationSumThree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CombinationSumTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -484,13 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RemoveElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClimbingLeaderboard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -816,6 +820,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SingelNumberTwo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
