@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e8bde73-4565-4893-856a-1757ebb61f99" name="Default" comment="Extra long factorials">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RemoveDuplicate(Linklist)).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SameBinaryTree.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +29,7 @@
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$PlusOne.coverage" NAME="PlusOne Coverage Results" MODIFIED="1653365668032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$ClimbingLeaderboard.coverage" NAME="ClimbingLeaderboard Coverage Results" MODIFIED="1648523344830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$CastleOnTheGrid.coverage" NAME="CastleOnTheGrid Coverage Results" MODIFIED="1649383729764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$SameBinaryTree.coverage" NAME="SameBinaryTree Coverage Results" MODIFIED="1657252004490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$MergeTwoSortedList_LinkList__.coverage" NAME="MergeTwoSortedList(LinkList)) Coverage Results" MODIFIED="1652978461788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$LongestCommonPrefix.coverage" NAME="LongestCommonPrefix Coverage Results" MODIFIED="1650641143894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithm_data_structures_$LongestSubstring.coverage" NAME="LongestSubstring Coverage Results" MODIFIED="1650557136236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -142,11 +143,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicate(Linklist)).py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveDuplicate(Linklist)).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RemoveDuplicate(Linklist)).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1039">
               <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SameBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SameBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1039">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LongestPalindromSubstring.py" />
         <option value="$PROJECT_DIR$/AppendAndDelete.py" />
         <option value="$PROJECT_DIR$/ZigzagConversion.py" />
         <option value="$PROJECT_DIR$/IsBalanced.py" />
@@ -223,6 +243,7 @@
         <option value="$PROJECT_DIR$/SingleNumber.py" />
         <option value="$PROJECT_DIR$/SingleNumberThree.py" />
         <option value="$PROJECT_DIR$/RemoveDuplicate(Linklist)).py" />
+        <option value="$PROJECT_DIR$/SameBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -253,8 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,6 +285,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,25 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RemoveDuplicate(Linklist))">
-    <configuration name="MissingNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-algorithm-data-structures-" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MissingNumber.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.SameBinaryTree">
     <configuration name="RemoveDuplicate(Linklist))" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,6 +326,24 @@
       <module name="python-algorithm-data-structures-" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveDuplicate(Linklist)).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SameBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-algorithm-data-structures-" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SameBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,19 +403,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MissingNumber" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SingleNumber" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SingleNumberThree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RemoveDuplicate(Linklist))" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SingleNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SingleNumberThree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RemoveDuplicate(Linklist))" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SameBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RemoveDuplicate(Linklist))" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SingleNumberThree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SingleNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MissingNumber" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SameBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RemoveDuplicate(Linklist))" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SingleNumberThree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SingleNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SingelNumberTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +451,7 @@
     <frame x="-16" y="-16" width="3872" height="2072" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15130208" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11536458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -487,13 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Factorials.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClimbingStairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -696,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10080">
-          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BinarySearchTreeKthSmallestElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
@@ -819,6 +826,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1039">
           <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="200" column="0" lean-forward="false" selection-start-line="200" selection-start-column="0" selection-end-line="200" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SameBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1039">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
